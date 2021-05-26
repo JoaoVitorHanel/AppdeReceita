@@ -30,7 +30,7 @@ O Projeto foi desenvolvido utilizando as seguintes <b>tecnologias</b>
 
 expo install firebase 
 
-# Aqui você ira instalar a parte estilização
+# Aqui você ira instalar a parte de estilização
 
 expo install styled-components
 
