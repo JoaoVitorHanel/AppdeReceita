@@ -21,7 +21,7 @@ O Projeto foi desenvolvido utilizando as seguintes <b>tecnologias</b>
 
 - [Expo](https://docs.expo.io/)
 - [Styled-Components](https://styled-components.com/)
-- [FireBase](https://firebase.google.com/)
+- [Firebase](https://firebase.google.com/)
 
 ## 📁 Dependencias
 
